@@ -109,7 +109,7 @@ LIMIT 5;
 📊 Power BI Dashboard
 ## 📊 Power BI Dashboard
 
-![Sales Dashboard](images/powerBI_dashboard.png)
+![Customer_Sales_Data](powerBI_dashboard.png)
 
 An interactive Power BI dashboard was created to visualize:
 
