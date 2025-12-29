@@ -107,7 +107,10 @@ ORDER BY percent_of_purchases DESC
 LIMIT 5;
 
 📊 Power BI Dashboard
-<img width="1356" height="745" alt="image" src="https://github.com/user-attachments/assets/64206d9d-acfb-4deb-8424-2470f7488a35" />
+## 📊 Power BI Dashboard
+
+![Sales Dashboard](images/powerBI_dashboard.png)
+
 
 
 An interactive Power BI dashboard was created to visualize:
