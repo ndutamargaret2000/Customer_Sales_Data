@@ -111,8 +111,6 @@ LIMIT 5;
 
 ![Sales Dashboard](images/powerBI_dashboard.png)
 
-
-
 An interactive Power BI dashboard was created to visualize:
 
 Revenue by gender and age group
